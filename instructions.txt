@@ -1,3 +1,5 @@
 Djeste. Evo instrukcije.
 
-Djeste. Evo konflikta.
+Djeste. 
+
+Izmene u sample-branch
